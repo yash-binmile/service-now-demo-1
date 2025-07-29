@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_bitp_demo_123_demo_12">x_bitp_demo_123_demo_12</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>DEM</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>yash.gupta</sys_created_by>
+        <sys_created_on>2025-07-28 17:34:40</sys_created_on>
+        <sys_id>728e8f45c30fe210410bf32a050131c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DEM</sys_name>
+        <sys_package display_value="Demo 123" source="x_bitp_demo_123">9ecd4705c30fe210410bf32a050131e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo 123">9ecd4705c30fe210410bf32a050131e3</sys_scope>
+        <sys_update_name>sys_number_728e8f45c30fe210410bf32a050131c4</sys_update_name>
+        <sys_updated_by>yash.gupta</sys_updated_by>
+        <sys_updated_on>2025-07-28 17:34:40</sys_updated_on>
+    </sys_number>
+</record_update>
