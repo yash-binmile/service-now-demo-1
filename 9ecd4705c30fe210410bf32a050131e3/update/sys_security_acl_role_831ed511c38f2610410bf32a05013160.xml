@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>yash.gupta</sys_created_by>
+        <sys_created_on>2025-07-29 04:01:55</sys_created_on>
+        <sys_id>831ed511c38f2610410bf32a05013160</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_bitp_demo_123_demo_323.x_bitp_demo_123.user</sys_name>
+        <sys_package display_value="Demo 123" source="x_bitp_demo_123">9ecd4705c30fe210410bf32a050131e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo 123">9ecd4705c30fe210410bf32a050131e3</sys_scope>
+        <sys_security_acl display_value="x_bitp_demo_123_demo_323">b61ed511c38f2610410bf32a05013135</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_831ed511c38f2610410bf32a05013160</sys_update_name>
+        <sys_updated_by>yash.gupta</sys_updated_by>
+        <sys_updated_on>2025-07-29 04:01:55</sys_updated_on>
+        <sys_user_role display_value="x_bitp_demo_123.user" name="x_bitp_demo_123.user">9ecd8705c30fe210410bf32a0501312f</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
