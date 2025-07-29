@@ -24,7 +24,7 @@
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_bitp_demo_123</source>
-        <store_correlation_id>REPOAPP0002210224</store_correlation_id>
+        <store_correlation_id>REPOAPP0002210234</store_correlation_id>
         <store_url/>
         <subscription_entitlement/>
         <sys_class_name>sys_app</sys_class_name>
@@ -32,9 +32,9 @@
         <sys_created_by>yash.gupta</sys_created_by>
         <sys_created_on>2025-07-28 17:31:21</sys_created_on>
         <sys_id>9ecd4705c30fe210410bf32a050131e3</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_updated_by>yash.gupta</sys_updated_by>
-        <sys_updated_on>2025-07-29 04:11:58</sys_updated_on>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-29 04:12:09</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
