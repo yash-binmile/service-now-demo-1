@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_bitp_demo_123_demo321">x_bitp_demo_123_demo321</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>DEMO</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin.123</sys_created_by>
+        <sys_created_on>2025-07-29 03:39:57</sys_created_on>
+        <sys_id>51191155c34f2610410bf32a0501314b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DEMO</sys_name>
+        <sys_package display_value="Demo 123" source="x_bitp_demo_123">9ecd4705c30fe210410bf32a050131e3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo 123">9ecd4705c30fe210410bf32a050131e3</sys_scope>
+        <sys_update_name>sys_number_51191155c34f2610410bf32a0501314b</sys_update_name>
+        <sys_updated_by>admin.123</sys_updated_by>
+        <sys_updated_on>2025-07-29 03:39:57</sys_updated_on>
+    </sys_number>
+</record_update>
